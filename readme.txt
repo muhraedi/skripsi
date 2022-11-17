@@ -1,0 +1,2 @@
+- Menjalankan tahap training pada folder train jika belum memiliki model
+- Menjalankan tahap testing pada folder test

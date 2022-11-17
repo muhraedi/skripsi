@@ -1,0 +1,47 @@
+21/06 23:23:27.7  INFO   3696 Application.cpp[134]          MonaServer v2.723
+21/06 23:23:27.7  INFO   3696 Application.cpp[136]          Load configuration file MonaServer.ini
+21/06 23:23:27.8  NOTE   10472 Protocols.h[82]              RTMFP server started on 0.0.0.0:1935
+21/06 23:23:27.8  NOTE   10472 Protocols.h[82]              RTMP server started on 0.0.0.0:1935
+21/06 23:23:27.8  NOTE   10472 Protocols.h[82]              RTMPS server started on 0.0.0.0:8443
+21/06 23:23:27.8  NOTE   10472 Protocols.h[82]              HTTP server started on 0.0.0.0:80
+21/06 23:23:27.8  NOTE   10472 Protocols.h[82]              WS server started on 0.0.0.0:80
+21/06 23:23:27.8  NOTE   10472 Protocols.h[82]              HTTPS server started on 0.0.0.0:443
+21/06 23:23:27.8  NOTE   10472 Protocols.h[82]              WSS server started on 0.0.0.0:443
+21/06 23:23:27.8  NOTE   10472 Protocols.h[82]              SRT server started on 0.0.0.0:9710
+21/06 23:25:40.1  ERROR  10472 FlashMainStream.cpp[150]     Method client releaseStream not found in application /
+21/06 23:25:40.1  ERROR  10472 FlashMainStream.cpp[150]     Method client FCPublish not found in application /
+21/06 23:25:40.2  INFO   10472 Publication.cpp[128]         Publication  {append: false, duration: 0, segments: 0, server: mona} started
+21/06 23:25:40.2  INFO   10472 Publication.cpp[424]         Write  publication properties {append: false, audiocodecid: 10, audiodatarate: 125, audiosamplerate: 44100, audiosamplesize: 16, duration: 0, encoder: Lavf56.15.102, filesize: 0, height: 720, segments: 0, server: mona, stereo: false, videocodecid: 7, videodatarate: 976.5625, width: 1280}
+21/06 23:25:40.3  INFO   10472 Server.cpp[119]              1 clients
+21/06 23:26:03.5  ERROR  10472 FlashMainStream.cpp[150]     Method client getStreamLength not found in application /
+21/06 23:26:03.5  INFO   10472 FlashStream.cpp[126]         setBufferTime 3000ms on stream id=1
+21/06 23:26:04.4  INFO   10472 Server.cpp[119]              2 clients
+21/06 23:26:24.1  WARN   10472 TCPSession.cpp[32]           RTMP 2-192.168.1.6:51815, Connection aborted
+21/06 23:26:24.5  INFO   10472 Server.cpp[119]              1 clients
+21/06 23:27:25.4  ERROR  10472 FlashMainStream.cpp[150]     Method client getStreamLength not found in application /
+21/06 23:27:25.4  INFO   10472 FlashStream.cpp[126]         setBufferTime 3000ms on stream id=1
+21/06 23:27:26.7  INFO   10472 Server.cpp[119]              2 clients
+21/06 23:27:40.0  WARN   10472 Subscription.cpp[523]        RTMPWriter video timeout, insufficient bandwidth to play 
+21/06 23:30:19.5  WARN   10472 TCPSession.cpp[32]           RTMP 2-192.168.1.6:51827, Connection reseted (from=0.0.0.0:0, size=2048, flags=0)
+21/06 23:30:19.5  WARN   10472 TCPSession.cpp[32]           RTMP 2-192.168.1.6:51827, Connection aborted
+21/06 23:30:21.5  INFO   10472 Server.cpp[119]              1 clients
+21/06 23:31:08.0  ERROR  10472 FlashMainStream.cpp[150]     Method client getStreamLength not found in application /
+21/06 23:31:08.0  INFO   10472 FlashStream.cpp[126]         setBufferTime 3000ms on stream id=1
+21/06 23:31:09.7  INFO   10472 Server.cpp[119]              2 clients
+21/06 23:31:22.8  WARN   10472 Subscription.cpp[456]        RTMPWriter audio timeout, insufficient bandwidth to play 
+21/06 23:33:04.5  WARN   10472 TCPSession.cpp[32]           RTMP 2-192.168.1.6:51860, Connection reseted (from=0.0.0.0:0, size=2048, flags=0)
+21/06 23:33:04.5  WARN   10472 TCPSession.cpp[32]           RTMP 2-192.168.1.6:51860, Connection aborted
+21/06 23:33:06.3  INFO   10472 Server.cpp[119]              1 clients
+21/06 23:33:23.0  WARN   10472 TCPSession.cpp[32]           RTMP 1-192.168.1.3:39684, Connection aborted
+21/06 23:33:23.0  INFO   10472 Publication.cpp[205]         Publication  stopped
+21/06 23:33:24.4  INFO   10472 Server.cpp[119]              0 clients
+24/06 01:04:58.5  INFO   6280 Application.cpp[134]          MonaServer v2.723
+24/06 01:04:58.5  INFO   6280 Application.cpp[136]          Load configuration file MonaServer.ini
+24/06 01:04:58.5  NOTE   13456 Protocols.h[82]              RTMFP server started on 0.0.0.0:1935
+24/06 01:04:58.5  NOTE   13456 Protocols.h[82]              RTMP server started on 0.0.0.0:1935
+24/06 01:04:58.5  NOTE   13456 Protocols.h[82]              RTMPS server started on 0.0.0.0:8443
+24/06 01:04:58.5  NOTE   13456 Protocols.h[82]              HTTP server started on 0.0.0.0:80
+24/06 01:04:58.5  NOTE   13456 Protocols.h[82]              WS server started on 0.0.0.0:80
+24/06 01:04:58.5  NOTE   13456 Protocols.h[82]              HTTPS server started on 0.0.0.0:443
+24/06 01:04:58.5  NOTE   13456 Protocols.h[82]              WSS server started on 0.0.0.0:443
+24/06 01:04:58.5  NOTE   13456 Protocols.h[82]              SRT server started on 0.0.0.0:9710

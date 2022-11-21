@@ -1,2 +1,7 @@
-- Menjalankan tahap training pada folder train jika belum memiliki model
-- Menjalankan tahap testing pada folder test
+DETEKSI DAN HITUNG BUAH COKELAT MATANG DAN NON-MATANG PADA POHONNYA SECARA REALTIME
+
+MUHAMMAD RAEDI RADIFAN
+D42116304
+
+DATASET:
+https://www.kaggle.com/datasets/muhraedi/kakao-tree
